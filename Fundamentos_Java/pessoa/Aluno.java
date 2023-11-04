@@ -12,4 +12,9 @@ public class Aluno extends Pessoa {
         return matricula;
     }
 
+    String imprimiDadosDaPessoa() {
+        System.out.println(super.imprimiDadosDaPessoa());
+        return "Você é um Aluno(a)";
+    }
+
 }
