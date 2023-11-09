@@ -12,3 +12,10 @@ Desenvolvendo aplicações completas e escaláveis com Java e Spring Boot Nos m�
 
 - Fundamentos do Spring Boot: Nesse módulo foi apresentando sobre o Spring Boot, porque ele é tão utilizado, para que servem as annotations e, além disso, conceitos fundamentais de uma API REST.
 
+
+## Projeto - Gestão de Vagas
+
+- De agora em diante o foco é na prática, aplicando os conceitos de POO e API REST para desenvolver projetos reais e completos, fixando assim os conhecimentos.
+
+- Nesse módulo foi desenvolvido uma API REST para controle de Empresas, Vagas e aplicações, utilizando dos principais pacotes do Spring Boot para persistência, segurança e autorização.
+
